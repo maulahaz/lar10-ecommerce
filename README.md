@@ -19,7 +19,5 @@ An Ecommerce/Online Store app using Laravel-10, Filament, Livewire and Tailwind<
 - [Koleksi Icon: HeroIcons](https://heroicons.com/)
 
 # Snapshots:
-![Product And Order](storage/snap/snap-lar10-ecommerce-0-product and order.jpg)
-<hr>
-[<img src="storage/snap/snap-lar10-ecommerce-0-order-create.jpg">](https://github.com/maulahaz/flt-warungol-fic12)
-<hr>
+<img src="storage/snap/snap-lar10-ecommerce-0-product and order.jpg">(https://github.com/maulahaz/lar10-ecommerce)
+<img src="storage/snap/snap-lar10-ecommerce-0-order-create.jpg">(https://github.com/maulahaz/lar10-ecommerce)
